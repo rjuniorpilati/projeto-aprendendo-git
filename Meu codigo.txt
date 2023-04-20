@@ -18,9 +18,16 @@ git push
 git push --set-upstream origin master
 
 novas atualizações no codigo
-
 git add .
 git status
 git commit -m "nova atualizacao"
+git push
+
+verificar as versoes
+git reflog
+
+navegar entre as versoes do codigo
+git resert --hard fb7c54d
+
 
 
