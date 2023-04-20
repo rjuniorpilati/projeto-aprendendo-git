@@ -1,1 +1,24 @@
 Olá meu nome é Junior
+
+git init
+git status
+git add "Meu codigo.txt"
+git status
+
+git add .
+para add todos os arguivos da pasta
+
+git commit -m "commit inicial"
+config email do git hub
+config name do git hub
+git commit -m "commit inicial"
+git push
+git remote add origin https://github.com/rjuniorpilati/projeto-aprendendo-git.git
+git push
+git push --set-upstream origin master
+
+novas atualizações no codigo
+
+
+
+
